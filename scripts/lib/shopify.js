@@ -58,27 +58,57 @@ const VARIANTS_QUERY = `
   }
 `;
 
-export function getShopifyCredentials(store) {
-  const token = process.env[store.accessTokenEnv];
+export async function getShopifyCredentials(store) {
+  const token = await getShopifyAccessToken(store);
   const apiVersion =
     process.env[`${store.key.toUpperCase()}_SHOPIFY_API_VERSION`] ||
     process.env.SHOPIFY_API_VERSION ||
     store.apiVersion;
 
-  if (!token) {
-    throw new Error(`Missing required environment variable: ${store.accessTokenEnv}`);
-  }
-
   return { token, apiVersion };
 }
 
 export async function fetchCatalog(store, options = {}) {
-  const { token, apiVersion } = getShopifyCredentials(store);
+  const { token, apiVersion } = await getShopifyCredentials(store);
   const client = createGraphqlClient(store.shopDomain, token, apiVersion);
   const products = await fetchProducts(client, store, options);
   const variants = await fetchVariants(client, store);
 
   return mergeProductsAndVariants(products, variants);
+}
+
+async function getShopifyAccessToken(store) {
+  const directToken = process.env[store.accessTokenEnv];
+  if (directToken) return directToken;
+
+  const clientId = process.env[store.clientIdEnv];
+  const clientSecret = process.env[store.clientSecretEnv];
+
+  if (!clientId || !clientSecret) {
+    throw new Error(
+      `Missing Shopify credentials for ${store.key}. Set ${store.clientIdEnv} and ${store.clientSecretEnv}, or ${store.accessTokenEnv}.`
+    );
+  }
+
+  const response = await fetch(`https://${store.shopDomain}/admin/oauth/access_token`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      grant_type: "client_credentials",
+      client_id: clientId,
+      client_secret: clientSecret
+    })
+  });
+
+  const payload = await response.json();
+
+  if (!response.ok || !payload.access_token) {
+    throw new Error(`Shopify token request failed for ${store.key} with HTTP ${response.status}: ${JSON.stringify(payload)}`);
+  }
+
+  return payload.access_token;
 }
 
 export function mergeProductsAndVariants(products, variants) {

@@ -28,13 +28,16 @@ cp .env.example .env
 Set the Shopify Admin API tokens in `.env` for local runs:
 
 ```env
-PARASOL_SHOPIFY_ACCESS_TOKEN=
-YARDS_SHOPIFY_ACCESS_TOKEN=
-TSL_SHOPIFY_ACCESS_TOKEN=
+PARASOL_SHOPIFY_CLIENT_ID=
+PARASOL_SHOPIFY_CLIENT_SECRET=
+YARDS_SHOPIFY_CLIENT_ID=
+YARDS_SHOPIFY_CLIENT_SECRET=
+TSL_SHOPIFY_CLIENT_ID=
+TSL_SHOPIFY_CLIENT_SECRET=
 SHOPIFY_API_VERSION=2026-04
 ```
 
-Do not commit `.env`. The GitHub workflow expects the same token names as repository secrets.
+Do not commit `.env`. The GitHub workflow expects the same client ID and secret names as repository secrets. `*_SHOPIFY_ACCESS_TOKEN` is still supported for legacy/local use, but new Dev Dashboard apps should use client credentials.
 
 ## Commands
 
@@ -56,9 +59,12 @@ AWIN `stockquant` is intentionally binary: generated rows emit `1` for included 
 
 Required repository secrets:
 
-- `PARASOL_SHOPIFY_ACCESS_TOKEN`
-- `YARDS_SHOPIFY_ACCESS_TOKEN`
-- `TSL_SHOPIFY_ACCESS_TOKEN`
+- `PARASOL_SHOPIFY_CLIENT_ID`
+- `PARASOL_SHOPIFY_CLIENT_SECRET`
+- `YARDS_SHOPIFY_CLIENT_ID`
+- `YARDS_SHOPIFY_CLIENT_SECRET`
+- `TSL_SHOPIFY_CLIENT_ID`
+- `TSL_SHOPIFY_CLIENT_SECRET`
 
 Optional repository variable:
 
