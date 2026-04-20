@@ -37,7 +37,7 @@ TSL_SHOPIFY_CLIENT_SECRET=
 SHOPIFY_API_VERSION=2026-04
 ```
 
-Do not commit `.env`. The GitHub workflow expects the same client ID and secret names as repository secrets. `*_SHOPIFY_ACCESS_TOKEN` is still supported for legacy/local use, but new Dev Dashboard apps should use client credentials.
+Do not commit `.env`. The GitHub workflow expects the same client ID and secret names as repository secrets.
 
 ## Commands
 

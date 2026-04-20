@@ -78,15 +78,12 @@ export async function fetchCatalog(store, options = {}) {
 }
 
 async function getShopifyAccessToken(store) {
-  const directToken = process.env[store.accessTokenEnv];
-  if (directToken) return directToken;
-
   const clientId = process.env[store.clientIdEnv];
   const clientSecret = process.env[store.clientSecretEnv];
 
   if (!clientId || !clientSecret) {
     throw new Error(
-      `Missing Shopify credentials for ${store.key}. Set ${store.clientIdEnv} and ${store.clientSecretEnv}, or ${store.accessTokenEnv}.`
+      `Missing Shopify credentials for ${store.key}. Set ${store.clientIdEnv} and ${store.clientSecretEnv}.`
     );
   }
 

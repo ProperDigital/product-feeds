@@ -19,7 +19,6 @@
       "shopDomain": "parasolstore.myshopify.com",
       "clientIdEnv": "PARASOL_SHOPIFY_CLIENT_ID",
       "clientSecretEnv": "PARASOL_SHOPIFY_CLIENT_SECRET",
-      "accessTokenEnv": "PARASOL_SHOPIFY_ACCESS_TOKEN",
       "feeds": {
         "awin": {
           "outputPath": "public/parasol/awin-feed.csv"
@@ -30,7 +29,6 @@
       "shopDomain": "yardsstore.myshopify.com",
       "clientIdEnv": "YARDS_SHOPIFY_CLIENT_ID",
       "clientSecretEnv": "YARDS_SHOPIFY_CLIENT_SECRET",
-      "accessTokenEnv": "YARDS_SHOPIFY_ACCESS_TOKEN",
       "feeds": {
         "awin": {
           "outputPath": "public/yards/awin-feed.csv"
@@ -41,7 +39,6 @@
       "shopDomain": "thesportinglodge.myshopify.com",
       "clientIdEnv": "TSL_SHOPIFY_CLIENT_ID",
       "clientSecretEnv": "TSL_SHOPIFY_CLIENT_SECRET",
-      "accessTokenEnv": "TSL_SHOPIFY_ACCESS_TOKEN",
       "feeds": {
         "awin": {
           "outputPath": "public/tsl/awin-feed.csv"
