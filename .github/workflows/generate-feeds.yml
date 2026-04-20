@@ -1,0 +1,149 @@
+name: Generate Product Feeds
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+    inputs:
+      feed:
+        description: "Feed to generate"
+        required: true
+        default: "all"
+        type: choice
+        options:
+          - all
+          - awin
+          - pricespy
+      store:
+        description: "Store to generate"
+        required: true
+        default: "all"
+        type: choice
+        options:
+          - all
+          - parasol
+          - yards
+          - tsl
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.matrix.outputs.matrix }}
+    steps:
+      - name: Build feed matrix
+        id: matrix
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
+          INPUT_FEED: ${{ inputs.feed || 'all' }}
+          INPUT_STORE: ${{ inputs.store || 'all' }}
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+
+          const allFeeds = [
+            { feed: 'awin', store: 'parasol', outputPath: 'public/parasol/awin-feed.csv' },
+            { feed: 'awin', store: 'yards', outputPath: 'public/yards/awin-feed.csv' },
+            { feed: 'awin', store: 'tsl', outputPath: 'public/tsl/awin-feed.csv' },
+            { feed: 'pricespy', store: 'tsl', outputPath: 'public/tsl/pricespy.xml' }
+          ];
+
+          let include;
+          if (process.env.EVENT_NAME === 'schedule' && process.env.EVENT_SCHEDULE === '0 12 * * *') {
+            include = allFeeds.filter((item) => item.feed === 'pricespy');
+          } else if (process.env.EVENT_NAME === 'workflow_dispatch') {
+            const feed = process.env.INPUT_FEED;
+            const store = process.env.INPUT_STORE;
+            include = allFeeds.filter((item) => {
+              const feedMatches = feed === 'all' || item.feed === feed;
+              const storeMatches = store === 'all' || item.store === store;
+              return feedMatches && storeMatches;
+            });
+          } else {
+            include = allFeeds;
+          }
+
+          fs.appendFileSync(process.env.GITHUB_OUTPUT, `matrix=${JSON.stringify({ include })}\n`);
+          NODE
+
+  generate:
+    needs: plan
+    if: ${{ fromJSON(needs.plan.outputs.matrix).include[0] != null }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.plan.outputs.matrix) }}
+    env:
+      PARASOL_SHOPIFY_ACCESS_TOKEN: ${{ secrets.PARASOL_SHOPIFY_ACCESS_TOKEN }}
+      YARDS_SHOPIFY_ACCESS_TOKEN: ${{ secrets.YARDS_SHOPIFY_ACCESS_TOKEN }}
+      TSL_SHOPIFY_ACCESS_TOKEN: ${{ secrets.TSL_SHOPIFY_ACCESS_TOKEN }}
+      SHOPIFY_API_VERSION: ${{ vars.SHOPIFY_API_VERSION || '2026-04' }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate feed
+        run: npm run generate:${{ matrix.feed }} -- --store ${{ matrix.store }}
+
+      - name: Stage artifact path
+        env:
+          OUTPUT_PATH: ${{ matrix.outputPath }}
+        run: |
+          mkdir -p "artifact/$(dirname "$OUTPUT_PATH")"
+          cp "$OUTPUT_PATH" "artifact/$OUTPUT_PATH"
+
+      - name: Upload generated feed
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.store }}-${{ matrix.feed }}
+          path: artifact/**
+          if-no-files-found: error
+
+  commit:
+    needs:
+      - plan
+      - generate
+    if: ${{ needs.generate.result == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Download generated feeds
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          merge-multiple: true
+
+      - name: Copy feeds into public
+        run: |
+          if [ -d artifacts/public ]; then
+            mkdir -p public
+            cp -R artifacts/public/. public/
+          fi
+
+      - name: Commit and push changed feeds
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/
+          if git diff --cached --quiet; then
+            echo "No feed changes to commit"
+          else
+            git commit -m "Update generated product feeds"
+            git push
+          fi

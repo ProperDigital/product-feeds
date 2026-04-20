@@ -1,0 +1,51 @@
+{
+  "defaults": {
+    "apiVersion": "2026-04",
+    "currency": "GBP",
+    "deliveryCost": "3.95",
+    "deliveryTime": "2-3 working days",
+    "condition": "new",
+    "shippingCountry": "GB",
+    "shippingService": "Standard",
+    "shippingPrice": "3.95 GBP",
+    "productPageSize": 250,
+    "priceSpyProductPageSize": 25,
+    "variantPageSize": 250,
+    "awinImageLimit": 1,
+    "priceSpyImageLimit": 20
+  },
+  "stores": {
+    "parasol": {
+      "shopDomain": "parasolstore.myshopify.com",
+      "accessTokenEnv": "PARASOL_SHOPIFY_ACCESS_TOKEN",
+      "feeds": {
+        "awin": {
+          "outputPath": "public/parasol/awin-feed.csv"
+        }
+      }
+    },
+    "yards": {
+      "shopDomain": "yardsstore.myshopify.com",
+      "accessTokenEnv": "YARDS_SHOPIFY_ACCESS_TOKEN",
+      "feeds": {
+        "awin": {
+          "outputPath": "public/yards/awin-feed.csv"
+        }
+      }
+    },
+    "tsl": {
+      "shopDomain": "thesportinglodge.myshopify.com",
+      "accessTokenEnv": "TSL_SHOPIFY_ACCESS_TOKEN",
+      "feeds": {
+        "awin": {
+          "outputPath": "public/tsl/awin-feed.csv"
+        },
+        "pricespy": {
+          "outputPath": "public/tsl/pricespy.xml",
+          "title": "PriceSpy Feed - The Sporting Lodge",
+          "description": "Product feed for PriceSpy from The Sporting Lodge"
+        }
+      }
+    }
+  }
+}

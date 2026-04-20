@@ -1,0 +1,35 @@
+{
+  "name": "product-feeds",
+  "version": "1.0.0",
+  "description": "Consolidated static product feed generators for Proper Digital Shopify stores.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "generate": "node scripts/generate-all.js",
+    "generate:awin": "node scripts/generate-awin.js",
+    "generate:pricespy": "node scripts/generate-pricespy.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "shopify",
+    "awin",
+    "pricespy",
+    "feeds"
+  ],
+  "author": "Proper Digital",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ProperDigital/product-feeds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProperDigital/product-feeds/issues"
+  },
+  "homepage": "https://github.com/ProperDigital/product-feeds#readme"
+}
