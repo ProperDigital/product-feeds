@@ -90,16 +90,23 @@ async function getShopifyAccessToken(store) {
   const response = await fetch(`https://${store.shopDomain}/admin/oauth/access_token`, {
     method: "POST",
     headers: {
-      "Content-Type": "application/json"
+      "Content-Type": "application/x-www-form-urlencoded"
     },
-    body: JSON.stringify({
+    body: new URLSearchParams({
       grant_type: "client_credentials",
       client_id: clientId,
       client_secret: clientSecret
-    })
+    }).toString()
   });
 
-  const payload = await response.json();
+  const responseText = await response.text();
+  let payload;
+  try {
+    payload = JSON.parse(responseText);
+  } catch {
+    const excerpt = responseText.replace(/\s+/g, " ").slice(0, 180);
+    throw new Error(`Shopify token request failed for ${store.key} with HTTP ${response.status}: ${excerpt}`);
+  }
 
   if (!response.ok || !payload.access_token) {
     throw new Error(`Shopify token request failed for ${store.key} with HTTP ${response.status}: ${JSON.stringify(payload)}`);
