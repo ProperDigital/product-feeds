@@ -25,19 +25,40 @@ npm ci
 cp .env.example .env
 ```
 
-Set the Shopify Admin API tokens in `.env` for local runs:
+Set Shopify app credentials and offline tokens in `.env` for local runs:
 
 ```env
 PARASOL_SHOPIFY_CLIENT_ID=
 PARASOL_SHOPIFY_CLIENT_SECRET=
+PARASOL_SHOPIFY_OFFLINE_ACCESS_TOKEN=
 YARDS_SHOPIFY_CLIENT_ID=
 YARDS_SHOPIFY_CLIENT_SECRET=
+YARDS_SHOPIFY_OFFLINE_ACCESS_TOKEN=
 TSL_SHOPIFY_CLIENT_ID=
 TSL_SHOPIFY_CLIENT_SECRET=
+TSL_SHOPIFY_OFFLINE_ACCESS_TOKEN=
 SHOPIFY_API_VERSION=2026-04
 ```
 
-Do not commit `.env`. The GitHub workflow expects the same client ID and secret names as repository secrets.
+Do not commit `.env`. The workflow uses offline access token repository secrets. Client IDs and secrets are only needed locally for the one-time OAuth install helper.
+
+## One-Time Shopify OAuth Setup
+
+For each Dev Dashboard app, add this redirect URL in Shopify before running the helper:
+
+```text
+http://localhost:8787/callback
+```
+
+Then put that store's client ID and secret in local `.env` and run:
+
+```sh
+npm run shopify:oauth -- --store parasol
+npm run shopify:oauth -- --store yards
+npm run shopify:oauth -- --store tsl
+```
+
+Each command prints an install URL. Open it, approve the app in the matching Shopify store, and the helper will save the fresh offline token directly to this GitHub repository's Actions secrets using `gh`.
 
 ## Commands
 
@@ -48,6 +69,7 @@ npm run generate:awin -- --store yards
 npm run generate:awin -- --store tsl
 npm run generate:pricespy -- --store tsl
 npm run generate -- --feed all --store all
+npm run shopify:oauth -- --store parasol
 npm test
 ```
 
@@ -59,12 +81,9 @@ AWIN `stockquant` is intentionally binary: generated rows emit `1` for included 
 
 Required repository secrets:
 
-- `PARASOL_SHOPIFY_CLIENT_ID`
-- `PARASOL_SHOPIFY_CLIENT_SECRET`
-- `YARDS_SHOPIFY_CLIENT_ID`
-- `YARDS_SHOPIFY_CLIENT_SECRET`
-- `TSL_SHOPIFY_CLIENT_ID`
-- `TSL_SHOPIFY_CLIENT_SECRET`
+- `PARASOL_SHOPIFY_OFFLINE_ACCESS_TOKEN`
+- `YARDS_SHOPIFY_OFFLINE_ACCESS_TOKEN`
+- `TSL_SHOPIFY_OFFLINE_ACCESS_TOKEN`
 
 Optional repository variable:
 

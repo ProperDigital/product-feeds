@@ -8,6 +8,7 @@
     "generate": "node scripts/generate-all.js",
     "generate:awin": "node scripts/generate-awin.js",
     "generate:pricespy": "node scripts/generate-pricespy.js",
+    "shopify:oauth": "node scripts/shopify-oauth.js",
     "test": "node --test"
   },
   "keywords": [

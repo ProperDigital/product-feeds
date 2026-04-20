@@ -59,7 +59,7 @@ const VARIANTS_QUERY = `
 `;
 
 export async function getShopifyCredentials(store) {
-  const token = await getShopifyAccessToken(store);
+  const token = getShopifyAccessToken(store);
   const apiVersion =
     process.env[`${store.key.toUpperCase()}_SHOPIFY_API_VERSION`] ||
     process.env.SHOPIFY_API_VERSION ||
@@ -77,42 +77,14 @@ export async function fetchCatalog(store, options = {}) {
   return mergeProductsAndVariants(products, variants);
 }
 
-async function getShopifyAccessToken(store) {
-  const clientId = process.env[store.clientIdEnv];
-  const clientSecret = process.env[store.clientSecretEnv];
+function getShopifyAccessToken(store) {
+  const token = process.env[store.offlineTokenEnv];
 
-  if (!clientId || !clientSecret) {
-    throw new Error(
-      `Missing Shopify credentials for ${store.key}. Set ${store.clientIdEnv} and ${store.clientSecretEnv}.`
-    );
+  if (!token) {
+    throw new Error(`Missing Shopify offline access token for ${store.key}. Set ${store.offlineTokenEnv}.`);
   }
 
-  const response = await fetch(`https://${store.shopDomain}/admin/oauth/access_token`, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/x-www-form-urlencoded"
-    },
-    body: new URLSearchParams({
-      grant_type: "client_credentials",
-      client_id: clientId,
-      client_secret: clientSecret
-    }).toString()
-  });
-
-  const responseText = await response.text();
-  let payload;
-  try {
-    payload = JSON.parse(responseText);
-  } catch {
-    const excerpt = responseText.replace(/\s+/g, " ").slice(0, 180);
-    throw new Error(`Shopify token request failed for ${store.key} with HTTP ${response.status}: ${excerpt}`);
-  }
-
-  if (!response.ok || !payload.access_token) {
-    throw new Error(`Shopify token request failed for ${store.key} with HTTP ${response.status}: ${JSON.stringify(payload)}`);
-  }
-
-  return payload.access_token;
+  return token;
 }
 
 export function mergeProductsAndVariants(products, variants) {
