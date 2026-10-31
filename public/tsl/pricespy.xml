@@ -5,30 +5,6 @@
     <description>Product feed for PriceSpy from The Sporting Lodge</description>
     <link>https://thesportinglodge.myshopify.com</link>
     <item>
-      <g:id><![CDATA[45376764313770]]></g:id>
-      <g:title><![CDATA[Barbour Foley Slipper Brown]]></g:title>
-      <g:price>30.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/barbour-foley-slipper-brown?variant=45376764313770</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Barbour Foley Slippers comes with a branded badge on the side, featuring a slip-on style wear and suede upper. Coming in Camel colour, these slippers sport a cushioned footbed and strap. These slippers are made from recycled plastic bottles. Wipe with damp cloth Suede]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Barbour-Foley-Slipper-Brown---26033---1.jpg?v=1706527552</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Barbour-Foley-Slipper-Brown---26033---2.jpg?v=1706527552</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Barbour-Foley-Slipper-Brown---26033---4.jpg?v=1706527552</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Barbour-Foley-Slipper-Brown---26033---6.jpg?v=1706527552</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Barbour-Foley-Slipper-Brown---26033---3.jpg?v=1706527552</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Barbour-Foley-Slipper-Brown---26033---5.jpg?v=1706527552</g:additional_image_link>
-      <g:brand><![CDATA[Barbour]]></g:brand>
-      <g:product_type><![CDATA[SLIPPERS]]></g:product_type>
-      <g:gtin>194972529932</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/barbour-foley-slipper-brown?variant=45376764313770</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[45376765526186]]></g:id>
       <g:title><![CDATA[Barbour Wellington Knee Socks Olive Green]]></g:title>
       <g:price>22.95 GBP</g:price>
@@ -11101,26 +11077,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[45377655963818]]></g:id>
-      <g:title><![CDATA[Fjallraven Nuuk Lite Parka Laurel Green]]></g:title>
-      <g:price>450.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-nuuk-lite-parka-laurel-green?variant=45377655963818</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Long-cut and lightly padded, the Fjallraven Nuuk Lite Parka in Laurel Green covers the rear and thighs for damp, cold autumn days and is one of the more weatherproof parkas in the range. The waterproof, windproof and breathable build with synthetic padding holds warmth even when wet. Features Outer: recycled polyamide with waterproof, breathable membrane Synthetic polyester padding Protective hood with detachable faux fur edging Two-way zip with protective flap and press buttons Warm chest-height hand pockets and multiple storage pockets Adjustable waist drawcord]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Fjallraven-Nuuk-Lite-Parka-Laurel-Green-Fjallraven-36270581_7b2c16e4-2cb4-43c8-9882-e887bc53e58f.webp?v=1785904328</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Fjallraven-Nuuk-Lite-Parka-Laurel-Green-Fjallraven-36270682_27ad8f85-cd11-43c8-8d41-1bd8827edbd4.webp?v=1785904329</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <g:gtin>7323450911379</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-nuuk-lite-parka-laurel-green?variant=45377655963818</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[45377656488106]]></g:id>
       <g:title><![CDATA[Fjallraven Ovik Flat Cap Dark Grey]]></g:title>
       <g:price>50.00 GBP</g:price>
@@ -17431,26 +17387,6 @@
       <g:brand><![CDATA[Polo Ralph Lauren]]></g:brand>
       <g:product_type><![CDATA[L/S SHIRTS]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-l-s-grid-pattern-cotton-shirt-white-wine-multi?variant=45377891926186</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[45377891958954]]></g:id>
-      <g:title><![CDATA[Polo Ralph Lauren L/S Grid Pattern Cotton Shirt White / Wine Multi]]></g:title>
-      <g:price>75.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-l-s-grid-pattern-cotton-shirt-white-wine-multi?variant=45377891958954</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Polo Ralph Lauren L/S Grid Pattern Cotton Shirt in White / Wine Multi is a long-sleeved cotton shirt with a red and multicolour grid check, finished with the embroidered Pony, and is one of our cotton shirts. Features Grid-check pattern in white with red and multicolour Button-down point collar with buttoned placket Long sleeves with buttoned barrel cuffs Signature embroidered Pony on the left chest 100% cotton Machine washable]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenL_SGridPatternCottonShirtWhite_WineMulti3_9d07f030-00c9-4ace-8634-91516e2e06da.jpg?v=1783133050</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenL_SGridPatternCottonShirtWhite_WineMulti2_81f9c4e1-92c9-4b62-ac0c-8ae149632920.jpg?v=1783133050</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/0002_polo-ralph-lauren-l-s-grid-pattern-cotton-shirt-white-wine-multir_2480.jpg?v=1783133051</g:additional_image_link>
-      <g:brand><![CDATA[Polo Ralph Lauren]]></g:brand>
-      <g:product_type><![CDATA[L/S SHIRTS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-l-s-grid-pattern-cotton-shirt-white-wine-multi?variant=45377891958954</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -27707,48 +27643,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[45510082887850]]></g:id>
-      <g:title><![CDATA[Patagonia Womens Down Sweater Vest Black]]></g:title>
-      <g:price>120.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/patagonia-womens-down-sweater-vest-black?variant=45510082887850</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The perfect warmth for just about everything, our classic, newly redesigned Patagonia Womens Down Sweater Vest in Black is lightweight and windproof with a shell made of NetPlus® 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution, and insulated with 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272). The purchase of Responsible Down Standard certified products demonstrates demand for better animal welfare practices in the down and feather supply chain. Fair Trade Certified™ sewn. PRODUCT FEATURES: Durable shell fabric is made of NetPlus® 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage Comfortable nylon-bound elastic armholes and drawcord hem seal in warmth; hem adjusts with cord lock at front hem Includes a repair patch to use for quick fixes on the go]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Patagonia-Womens-Down-Sweater-Vest-Black-9256-1.jpg?v=1783131729</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Patagonia-Womens-Down-Sweater-Vest-Black-9256-3.jpg?v=1783131730</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Patagonia-Womens-Down-Sweater-Vest-Black-9256-2.jpg?v=1783131730</g:additional_image_link>
-      <g:brand><![CDATA[Patagonia]]></g:brand>
-      <g:product_type><![CDATA[GILET JACKETS]]></g:product_type>
-      <g:gtin>887187725205</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/patagonia-womens-down-sweater-vest-black?variant=45510082887850</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[45510082920618]]></g:id>
-      <g:title><![CDATA[Patagonia Womens Down Sweater Vest Black]]></g:title>
-      <g:price>120.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/patagonia-womens-down-sweater-vest-black?variant=45510082920618</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The perfect warmth for just about everything, our classic, newly redesigned Patagonia Womens Down Sweater Vest in Black is lightweight and windproof with a shell made of NetPlus® 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution, and insulated with 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272). The purchase of Responsible Down Standard certified products demonstrates demand for better animal welfare practices in the down and feather supply chain. Fair Trade Certified™ sewn. PRODUCT FEATURES: Durable shell fabric is made of NetPlus® 100% postconsumer recycled nylon ripstop made from recycled fishing nets to help reduce ocean plastic pollution; with a PFC-free DWR finish (durable water repellent coating that does not contain perfluorinated chemicals) Additional loft provides even more warmth from 800-fill-power 100% Responsible Down Standard down certified by Control Union (CU 880272); quilting patterned for warmth and movement Center-front zipper has an interior storm flap and zipper garage at chin for next-to-skin comfort Two on-seam handwarmer pockets with welted zippers; internal zippered chest pocket converts to stuffsack with carabiner clip-in loop; drop-in interior pockets provide additional storage Comfortable nylon-bound elastic armholes and drawcord hem seal in warmth; hem adjusts with cord lock at front hem Includes a repair patch to use for quick fixes on the go]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Patagonia-Womens-Down-Sweater-Vest-Black-9256-1.jpg?v=1783131729</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Patagonia-Womens-Down-Sweater-Vest-Black-9256-3.jpg?v=1783131730</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Patagonia-Womens-Down-Sweater-Vest-Black-9256-2.jpg?v=1783131730</g:additional_image_link>
-      <g:brand><![CDATA[Patagonia]]></g:brand>
-      <g:product_type><![CDATA[GILET JACKETS]]></g:product_type>
-      <g:gtin>887187725199</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/patagonia-womens-down-sweater-vest-black?variant=45510082920618</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[45510083575978]]></g:id>
       <g:title><![CDATA[Patagonia Womens Honeycomb Knit Beanie Birch White]]></g:title>
       <g:price>45.00 GBP</g:price>
@@ -31680,27 +31574,6 @@
       <g:brand><![CDATA[Red Wing]]></g:brand>
       <g:product_type><![CDATA[CASUAL BOOTS]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/red-wing-iron-ranger-boot-hawthorne-muleskinner?variant=45510387761322</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[45510387794090]]></g:id>
-      <g:title><![CDATA[Red Wing Iron Ranger Boot Hawthorne Muleskinner]]></g:title>
-      <g:price>369.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/red-wing-iron-ranger-boot-hawthorne-muleskinner?variant=45510387794090</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[If you're looking for a tough, durable boot then the 8083 Iron Ranger in Hawthorne Muleskinner Leather is for you. Originally designed for miners in the Mesabi Iron Range in northern Minnesota, this boot comes with a double layered toe cap for extra strength. Made in the USA. PRODUCT FEATURES: Leather type: Hawthorne Muleskinner Leather Construction: Goodyear Welt Sole: Vibram Mini-lug sole]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Red-Wing-Iron-Ranger-Boot-Hawthorne-Muleskinner-1_5a862808-0821-47a5-b9d7-bc5e72ff0bbe.jpg?v=1783131190</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Red-Wing-Iron-Ranger-Boot-Hawthorne-Muleskinner-4_a12edb38-596d-4963-b489-c72c7b208014.jpg?v=1783131190</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Red-Wing-Iron-Ranger-Boot-Hawthorne-Muleskinner-3_72237214-45a5-40c2-b007-8aab54bc1e4a.jpg?v=1783131190</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Red-Wing-Iron-Ranger-Boot-Hawthorne-Muleskinner-2_1e7b8b03-c589-46a3-be30-6192b49aa8fe.jpg?v=1783131190</g:additional_image_link>
-      <g:brand><![CDATA[Red Wing]]></g:brand>
-      <g:product_type><![CDATA[CASUAL BOOTS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/red-wing-iron-ranger-boot-hawthorne-muleskinner?variant=45510387794090</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -40190,29 +40063,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[45513139683498]]></g:id>
-      <g:title><![CDATA[Beretta Tactical Backpack Black]]></g:title>
-      <g:price>113.95 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/beretta-tactical-backpack-black?variant=45513139683498</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Medium sized 29L tactical backpack. This backpack has 2 main compartments with external M.O.L.L.E. system and Velcro to attach any type of patches. Details: Large Main Compartment. Carrying handle. Shoulder Straps. Compression Straps. M.O.L.L.E. system.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/BerettaTacticalBackPack-Black-18094-1.jpg?v=1712924053</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/BerettaTacticalBackPack-Black-18094-2.jpg?v=1712924053</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/BerettaTacticalBackPack-Black-18094-3.jpg?v=1712924053</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/BerettaTacticalBackPack-Black-18094-4.jpg?v=1712924053</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/BerettaTacticalBackPack-Black-18094-5.jpg?v=1774623070</g:additional_image_link>
-      <g:brand><![CDATA[Beretta]]></g:brand>
-      <g:product_type><![CDATA[BACKPACKS]]></g:product_type>
-      <g:gtin>8051832408092</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/beretta-tactical-backpack-black?variant=45513139683498</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[45513140371626]]></g:id>
       <g:title><![CDATA[Beretta Tactical Backpack Green Stone]]></g:title>
       <g:price>113.95 GBP</g:price>
@@ -42111,25 +41961,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[45513295233194]]></g:id>
-      <g:title><![CDATA[Deerhunter Muflon Packable Waistcoat Wood]]></g:title>
-      <g:price>45.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/deerhunter-muflon-packable-waistcoat-wood?variant=45513295233194</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Introducing the Deerhunter Muflon Packable Waistcoat Wood, an exceptional choice for layering or standalone wear. This waistcoat offers lightweight insulation and water repellency, providing excellent warmth and comfort. Equipped with a YKK central zip and adjustable drawstring at the bottom, it offers a customisable fit. It conveniently folds into its inner pocket, making it perfect for all your outdoor adventures. With two front pockets and an inner pocket, all equipped with zippers, you'll enjoy ample storage options. Key Features: Lightweight waistcoat YKK zipper at centre front Two front pockets with zipper Inner pocket with zipper The entire vest fits into the inner pocket Adjustable bottom with drawstring]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/27496-1.jpg?v=1774622708</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/27496-2.jpg?v=1774622708</g:additional_image_link>
-      <g:brand><![CDATA[Deerhunter]]></g:brand>
-      <g:product_type><![CDATA[GILET JACKETS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/deerhunter-muflon-packable-waistcoat-wood?variant=45513295233194</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[45513297297578]]></g:id>
       <g:title><![CDATA[Deerhunter Ronald Shirt Yellow Check]]></g:title>
       <g:price>35.00 GBP</g:price>
@@ -42731,29 +42562,6 @@
       <g:brand><![CDATA[Dubarry]]></g:brand>
       <g:product_type><![CDATA[S/S TEES]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/dubarry-womens-cloyne-s-s-tees-navy?variant=45513343074474</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[45513345630378]]></g:id>
-      <g:title><![CDATA[Dubarry Womens Downpatrick Boot Camel]]></g:title>
-      <g:price>150.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/dubarry-womens-downpatrick-boot-camel?variant=45513345630378</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Turn heads in the beautifully crafted, knee-high Downpatrick boot. A streamlined suede and leather silhouette moulds comfortably around the leg and a small heel elongates legs offering a sophisticated companion to a variety of outfits. Team with a McDonnell knitted dress or tweed skirt for showstopping look at the races, or slip on over jeans to step out at the weekend. Water resistant DryFast-DrySoft™ finish will keep you dry and pristine wherever you head. Genuine suede and pull up leathers with a water resistant DryFast-DrySoft™ finish Full length zip fastening Cut close to the ankle Elasticated stretch back panel Hand built rubber and leather sole 4.5cm leather stacked heel Fully leather lined Cushioned footbed Subtle signature Dubarry branding]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Dubarry-Womens-Downpatrick-Boot-Camel-17715-1.jpg?v=1774622590</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Dubarry-Downpatrick-Knee-High-Boot-Camel-6.jpg?v=1774622590</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Dubarry-Downpatrick-Knee-High-Boot-Camel-2.jpg?v=1774622590</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Dubarry-Downpatrick-Knee-High-Boot-Camel-5.jpg?v=1774622590</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Dubarry-Downpatrick-Knee-High-Boot-Camel-4.jpg?v=1774622590</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/Dubarry-Downpatrick-Knee-High-Boot-Camel-3.jpg?v=1774622590</g:additional_image_link>
-      <g:brand><![CDATA[Dubarry]]></g:brand>
-      <g:product_type><![CDATA[CASUAL BOOTS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/dubarry-womens-downpatrick-boot-camel?variant=45513345630378</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -44718,25 +44526,6 @@
       <g:product_type><![CDATA[KANKEN CLASSIC]]></g:product_type>
       <g:gtin>7392158007820</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-kanken-classic-forest-green?variant=45513470541994</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[45513470738602]]></g:id>
-      <g:title><![CDATA[Fjallraven Kanken Classic Frost Green]]></g:title>
-      <g:price>85.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-kanken-classic-frost-green?variant=45513470738602</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Kanken Classic is the original and much-loved Kanken backpack. It is ideal for many different uses such as travelling, education, work or simply everyday use. The Kanken Classic is crafted from extremely durable Vinylon fabric in a way that is designed to avoid discomfort and back problems. It boasts a large main compartment which is easily accessible via the all-round double zip. There is also a large zip-close pocket to the front and a flat pocket on each side, so you can keep your belongings organised. Inside the bag, you will find a foam pad, which stops your things from coming into contact with your back. This can be removed and used as a seat pad if you need a comfortable place to sit on your travels. The Kanken Classic can be carried either by the two top handles which can be joined together using the snap-close fastening, or it can be carried on your back at the ideal length for you using the adjustable straps. Of course no Kanken is complete without the iconic white and red reflective fox logo on the front.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/FjallravenKankenClassic-FrostGreen-708-1.jpg?v=1774622229</g:image_link>
-      <g:brand><![CDATA[Fjallraven Kanken Bags]]></g:brand>
-      <g:product_type><![CDATA[KANKEN CLASSIC]]></g:product_type>
-      <g:gtin>7392158898862</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-kanken-classic-frost-green?variant=45513470738602</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -48953,27 +48742,6 @@
       <g:product_type><![CDATA[BACKPACKS]]></g:product_type>
       <g:gtin>7323450899257</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-skule-top-26l-backpack-deep-forest?variant=45513594667178</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[45513598795946]]></g:id>
-      <g:title><![CDATA[Fjallraven Tab Beanie Hat Black]]></g:title>
-      <g:price>35.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-tab-beanie-hat-black?variant=45513598795946</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Soft, comfortable knitted hat in recycled polyester. Decorative waffle-knit with wide fold-up edge and little textile logo tab. The material wicks away moisture and dries fast, so it works well for both everyday life and when out in the mountains. Structure-knitted in 100% recycled polyester. Attractive fit with the wide fold-up edge. Little textile logo tab. Lightweight, Packable, Quick-drying]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/27217-1.jpg?v=1713791597</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/27217-3.jpg?v=1713791597</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/products/27217-2.jpg?v=1708868863</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[BEANIE HATS]]></g:product_type>
-      <g:gtin>7323450795832</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-tab-beanie-hat-black?variant=45513598795946</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -77532,25 +77300,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[46244262772906]]></g:id>
-      <g:title><![CDATA[Barbour Bowburn Regular Checked Shirt Navy Marl]]></g:title>
-      <g:price>45.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/barbour-bowburn-regular-checked-shirt-navy-marl?variant=46244262772906</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Perfect for walking in the outdoors thanks to its breathable cotton twill fabric, the Barbour Bowburn Regular Fit Shirt features a practical button-down collar and spade chest pocket. Boasting a brushed texture for added softness, it's finished with a branded label to the chest. FEATURES 100% cotton Machine wash 30°C]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourBowburnRegularCheckedShirtNavyMarl.jpg?v=1774618210</g:image_link>
-      <g:brand><![CDATA[Barbour]]></g:brand>
-      <g:product_type><![CDATA[L/S SHIRTS]]></g:product_type>
-      <g:gtin>5020985174157</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/barbour-bowburn-regular-checked-shirt-navy-marl?variant=46244262772906</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[46244262969514]]></g:id>
       <g:title><![CDATA[Barbour Ramsden Half Zip Knitted Jumper Ivy Green]]></g:title>
       <g:price>70.00 GBP</g:price>
@@ -80754,26 +80503,6 @@
       <g:product_type><![CDATA[KANKEN HIP BAGS]]></g:product_type>
       <g:gtin>7323451061998</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-kanken-hip-pack-dark-oak?variant=46244301471914</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[46244301537450]]></g:id>
-      <g:title><![CDATA[Fjallraven Kanken No. 2 Hip Pack Hazel Brown]]></g:title>
-      <g:price>80.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-kanken-no-2-hip-pack-hazel-brown?variant=46244301537450</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[This Kånken No. 2 Hip Pack is made in G-1000 HeavyDuty, has a generous leather handle and a Fjällräven logo in brown leather on the front. Zippered main compartment with inside sleeve pocket and key clip. Zippered front pocket and a security pocket on the back. Adjustable 25 mm webbing hip belt. PRODUCT FEATURES Zippered main compartment with inside sleeve pocket and key clip. Zippered front pocket and security pocket at the back. Adjustable 25 mm webbing hipbelt and leather handle at the top. Inside name label.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/kankenno.2_0004_Layer1.jpg?v=1774618030</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/kankenno.2_0003_Layer2.jpg?v=1774618030</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven Kanken Bags]]></g:brand>
-      <g:product_type><![CDATA[KANKEN HIP BAGS]]></g:product_type>
-      <g:gtin>7323451028496</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-kanken-no-2-hip-pack-hazel-brown?variant=46244301537450</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -94878,29 +94607,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[54853408850306]]></g:id>
-      <g:title><![CDATA[RRL by Ralph Lauren Womens Embroidered Indigo Floral-Print Shirt Blue / Cream]]></g:title>
-      <g:price>220.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/rrl-by-ralph-lauren-womens-embroidered-indigo-floral-print-shirt-blue-cream?variant=54853408850306</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Made with lightweight cotton cloth woven in Japan. Dyed with true indigo and discharge-printed with a vintage-inspired floral motif. Hand-embroidered detailing throughout. Straight hem. Genuine mother of pearl buttons. FEATURES Size 6 has a 56 cm body length and an 80 cm sleeve length. Body length and sleeve length are taken from the centre back of the neck. Sleeve length changes 0.63 cm between sizes. Straight collar. Buttoned placket. Genuine mother of pearl buttons. Long sleeves with buttoned barrel cuffs. Two chest patch pockets. Straight hem. Embroidery throughout. 100% cotton. Machine washable. Imported. Dyed with true indigo, which may rub off onto fabrics, leather and upholstery.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLbyRalphLaurenWomensEmbroideredIndigoFloral-PrintShirtBlueCream_1.jpg?v=1783125976</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLbyRalphLaurenWomensEmbroideredIndigoFloral-PrintShirtBlueCream_2.jpg?v=1783125976</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLbyRalphLaurenWomensEmbroideredIndigoFloral-PrintShirtBlueCream_3.jpg?v=1783125976</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLbyRalphLaurenWomensEmbroideredIndigoFloral-PrintShirtBlueCream_4.jpg?v=1783125976</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLbyRalphLaurenWomensEmbroideredIndigoFloral-PrintShirtBlueCream_5.jpg?v=1783125976</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLbyRalphLaurenWomensEmbroideredIndigoFloral-PrintShirtBlueCream_6.jpg?v=1783125976</g:additional_image_link>
-      <g:brand><![CDATA[RRL by Ralph Lauren]]></g:brand>
-      <g:product_type><![CDATA[L/S SHIRTS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/rrl-by-ralph-lauren-womens-embroidered-indigo-floral-print-shirt-blue-cream?variant=54853408850306</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[54853409079682]]></g:id>
       <g:title><![CDATA[Carhartt WIP Womens Signature Sweat Dusty Ice / White]]></g:title>
       <g:price>50.00 GBP</g:price>
@@ -107399,26 +107105,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55028379222402]]></g:id>
-      <g:title><![CDATA[RRL by Ralph Lauren RRL Ranch Logo Twill Ball Cap Khaki]]></g:title>
-      <g:price>115.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/rrl-by-ralph-lauren-rrl-ranch-logo-twill-ball-cap-khaki-1?variant=55028379222402</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[RRL by Ralph Lauren RRL Ranch Logo Twill Ball Cap Khaki. Vintage-inspired ball cap made with Japanese cotton twill that is washed for an authentic look and feel. Designed with a slightly deeper crown than the standard model. Double RL Ranch logo and founding year embroidered at the front. Signature green underbrim. Leather strap on the back with an antiqued-brass buckle. FEATURES: Seamed brim. Signature green underbrim. Six-panel construction. Ventilating embroidered eyelets. Twill sweatband. “Est. 1993 Double RL Ralph Lauren” and the Double RL Ranch logo embroidered at the front. Adjustable leather strap on the back with an antiqued-brass buckle. 57.8 cm inner circumference. Shell: 100% cotton. Strap: 100% leather. Hand wash or dry clean. Imported.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/0002_RRL-by-ralph-lauren-RRRL-Ranch-logo-twill-ball-cap-khaki-1_c3d39067-8497-4265-91f2-167e8587f3a6.jpg?v=1780350248</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/0001_RRL-by-ralph-lauren-RRRL-Ranch-logo-twill-ball-cap-khaki-2_51995b9d-70f8-414e-a626-4b5b9ba4b668.jpg?v=1780350248</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/0000_RRL-by-ralph-lauren-RRRL-Ranch-logo-twill-ball-cap-khaki-3_adad599b-6a56-4254-a8fb-3e31ca11f77f.jpg?v=1780350249</g:additional_image_link>
-      <g:brand><![CDATA[RRL by Ralph Lauren]]></g:brand>
-      <g:product_type><![CDATA[CAPS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/rrl-by-ralph-lauren-rrl-ranch-logo-twill-ball-cap-khaki-1?variant=55028379222402</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55028379484546]]></g:id>
       <g:title><![CDATA[RRL by Ralph Lauren Embossed Leather Sunglasses Case Brown]]></g:title>
       <g:price>220.00 GBP</g:price>
@@ -117285,31 +116971,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55156301562242]]></g:id>
-      <g:title><![CDATA[Filson Oakville Canvas Shorts Gravel]]></g:title>
-      <g:price>85.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/filson-oakville-canvas-shorts-gravel?variant=55156301562242</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Filson Oakville Canvas Shorts in Gravel are perfect for summer hikes, boulder-hopping, and other active outdoor activities. Made from durable yet lightweight 8-oz cotton canvas, these shorts provide comfort in the heat. The waistband features hidden elastic and a drawcord for a secure, beltless fit, ideal for a dip in the lake. With easy-access slash front pockets and button-secure back patch pockets, they offer both convenience and functionality. The 7-inch inseam ensures a comfortable fit for all your outdoor adventures. FEATURES Midweight 100% cotton canvas Elastic and drawstring waistband for beltless wear Belt loops for added security Slash-front pockets and button-secure back pockets Zippered fly and button-secure waistband]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FilsonOakvilleCanvasShortsGravel_f7494976-2c52-4e69-9ad8-8e5c684309a5.jpg?v=1752832382</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FilsonOakvilleCanvasShortsGravel1.jpg?v=1752832382</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FilsonOakvilleCanvasShortsGravel2.jpg?v=1752832382</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/4FilsonOakvilleCanvasShortsGravel.jpg?v=1780348999</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/NEWshortstemplate_0000_Layer4.jpg?v=1752832382</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FilsonOakvilleCanvasShortsGravel5.jpg?v=1780348998</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FilsonOakvilleCanvasShortsGravel4.jpg?v=1780348999</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FilsonOakvilleCanvasShortsGravel3.jpg?v=1780348998</g:additional_image_link>
-      <g:brand><![CDATA[Filson]]></g:brand>
-      <g:product_type><![CDATA[SHORTS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/filson-oakville-canvas-shorts-gravel?variant=55156301562242</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55156301824386]]></g:id>
       <g:title><![CDATA[Filson Oakville Canvas Shorts Bronze Brown]]></g:title>
       <g:price>85.00 GBP</g:price>
@@ -126148,26 +125809,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55302283886978]]></g:id>
-      <g:title><![CDATA[Frizmworks OG Heavyweight Sweatshirt 002 Taupe]]></g:title>
-      <g:price>60.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/frizmworks-og-heavyweight-sweatshirt-002-taupe?variant=55302283886978</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Frizmworks OG Heavyweight Sweatshirt 002 in Taupe is a premium crewneck made from a custom blend of cotton and polyester yarn for a soft, durable feel. Designed with a reinforced neckline and natural shoulder line, it ensures long-lasting comfort and structure. Pre-washed to reduce shrinkage, this heavyweight sweatshirt is perfect for layering or wearing solo. A versatile essential that blends rugged construction with clean, modern style—ideal for everyday wear. FEATURES 70% cotton, 30% polyester Oversized Fit Machine Washable]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksOGHeavyweightSweatshirt002Taupe2_21006f74-6d8b-484c-9ced-c4ef899cbd88.jpg?v=1780348149</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksOGHeavyweightSweatshirt002Taupe1_a121161a-7739-4470-8e9b-ffd63f51ffb8.jpg?v=1780348149</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksOGHeavyweightSweatshirt002TaupeTaupe3.jpg?v=1780348151</g:additional_image_link>
-      <g:brand><![CDATA[Frizmworks]]></g:brand>
-      <g:product_type><![CDATA[SWEATS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/frizmworks-og-heavyweight-sweatshirt-002-taupe?variant=55302283886978</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55302284345730]]></g:id>
       <g:title><![CDATA[Frizmworks Nylon Utility Pocket Shirt Jacket Brown]]></g:title>
       <g:price>185.00 GBP</g:price>
@@ -134724,27 +134365,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55537888461186]]></g:id>
-      <g:title><![CDATA[Polo Ralph Lauren The Beaton Quilted Jacket Company Olive]]></g:title>
-      <g:price>199.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-the-beaton-quilted-jacket-company-olive?variant=55537888461186</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Polo Ralph Lauren Beaton Quilted Jacket in Company Olive reinterprets a classic workwear-inspired silhouette with modern functionality. Crafted from water-repellent fabric made with recycled polyester, it offers lightweight protection against the elements. Designed for everyday wear, this men’s quilted jacket combines durable construction with a refined, contemporary style, making it a versatile choice for layering in cooler weather. PRODUCT FEATURES Corduroy straight collar. Buttoned placket. Long sleeves with buttoned barrel cuffs. Left chest patch pocket. Two front waist patch pockets. Interior right chest pocket. Fully lined and filled. "Polo Ralph Lauren" patch with our signature Pony on the left sleeve. This product is made from recycled polyester. Shell and fill: recycled polyester. Lining: nylon. Trim: cotton. Machine washable.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenTheBeatonQuiltedJacketCompanyOlive4_d9944ca6-1050-4f6f-8e39-e9a6398303f7.jpg?v=1786460390</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenTheBeatonQuiltedJacketCompanyOlive3_9fab2f6b-5c5e-4951-8ce2-7434514f8cff.jpg?v=1786460391</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenTheBeatonQuiltedJacketCompanyOlive2_ea0ec132-b393-4396-991b-942b632358e8.jpg?v=1786460390</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenTheBeatonQuiltedJacketCompanyOlive1_ce9ccf74-3f0a-422b-b66c-98321b24374a.jpg?v=1786460391</g:additional_image_link>
-      <g:brand><![CDATA[Polo Ralph Lauren]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-the-beaton-quilted-jacket-company-olive?variant=55537888461186</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55537888526722]]></g:id>
       <g:title><![CDATA[Polo Ralph Lauren The Beaton Quilted Jacket Company Olive]]></g:title>
       <g:price>199.00 GBP</g:price>
@@ -137427,27 +137047,6 @@
       <g:brand><![CDATA[NN07]]></g:brand>
       <g:product_type><![CDATA[TROUSERS]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/nn07-otis-straight-leg-relaxed-fit-jeans-stonewashed?variant=55585344356738</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[55585344618882]]></g:id>
-      <g:title><![CDATA[NN07 Pedro Embroidery Organic Cotton T-Shirt Dark Army]]></g:title>
-      <g:price>40.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/nn07-pedro-embroidery-organic-cotton-t-shirt-dark-army?variant=55585344618882</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The NN07 Pedro Embroidery Organic Cotton T-Shirt in Dark Army is made from mercerised organic cotton jersey interlock for a soft, durable feel. It features a relaxed fit and a wide bottom hem for comfortable everyday wear. The chest is detailed with subtle embroidery, adding a refined touch to the classic design. This versatile T-shirt is ideal for casual outfits or layering with other wardrobe pieces. PRODUCT FEATURES Relaxed fit Embroidery at chest Wide bottom hem Organic cotton 100% Organic Cotton]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/NN07PedroEmbroideryOrganicCottonT-ShirtDarkArmy4.jpg?v=1755870940</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/NN07PedroEmbroideryOrganicCottonT-ShirtDarkArmy3.jpg?v=1777569754</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/NN07PedroEmbroideryOrganicCottonT-ShirtDarkArmy2.jpg?v=1777569754</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/NN07PedroEmbroideryOrganicCottonT-ShirtDarkArmy1.jpg?v=1755870940</g:additional_image_link>
-      <g:brand><![CDATA[NN07]]></g:brand>
-      <g:product_type><![CDATA[S/S TEES]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/nn07-pedro-embroidery-organic-cotton-t-shirt-dark-army?variant=55585344618882</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -145314,25 +144913,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55711249105282]]></g:id>
-      <g:title><![CDATA[Frizmworks Fold Fatigue Wide Pants Black]]></g:title>
-      <g:price>99.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/frizmworks-fold-fatigue-wide-pants-black?variant=55711249105282</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Frizmworks Fold Fatigue Wide Pants in Black are made from a soft cotton and nylon canvas blend for comfort and durability. Featuring a relaxed balloon shape with a wide fit, they include fatigue-style front details, subtle side pockets, and button-down back pockets. A drawstring and elasticated waist ensure a comfortable fit, while a unique button at the hem allows the legs to be folded and tapered for versatile styling. PRODUCT FEATURES 65% cotton, 30% nylon soft canvas blend Fatigue front detail with side pocket Two buttoned back pockets Button detail at hem to taper leg shape Drawstring and elasticated waist Balloon style silhouette Relaxed, wide fit]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksFoldFatigueWidePantsBlack_0001_fold_fatigue_wide_pants_black_01_1024x1024_2x_8dac8d93-7115-4da0-a2d2-b46dc1befccd.jpg?v=1758642122</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksFoldFatigueWidePantsBlack_0000_fold_fatigue_wide_pants_black_02_1024x1024_2x_53c3b3a9-fa2b-4e3e-a310-7f331929824f.jpg?v=1758642122</g:additional_image_link>
-      <g:brand><![CDATA[Frizmworks]]></g:brand>
-      <g:product_type><![CDATA[TROUSERS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/frizmworks-fold-fatigue-wide-pants-black?variant=55711249105282</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55711249531266]]></g:id>
       <g:title><![CDATA[Frizmworks Soft Touch Relaxed Shirt Black]]></g:title>
       <g:price>125.00 GBP</g:price>
@@ -148985,26 +148565,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55720472183170]]></g:id>
-      <g:title><![CDATA[Fjallraven Singi Heavy Flannel Shirt Black / Deep Forest]]></g:title>
-      <g:price>85.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-singi-heavy-flannel-shirt-black-deep-forest?variant=55720472183170</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Fjällräven Singi Heavy Flannel Shirt in Black / Deep Forest is a durable long-sleeve shirt built for outdoor use. Crafted from soft cotton flannel with G-1000® reinforcements at the collar, cuffs, and pocket flaps, it blends comfort with hardwearing function. Designed with a regular fit, two chest pockets with pen holders, and sleeves that can be rolled and secured with a button, it’s a versatile layer for both the outdoors and everyday wear. PRODUCT FEATURES Heavy cotton flannel shirt in regular fit. Two chest pockets. Roll-up sleeve function. Button down collar.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSingiHeavyFlannelShirtBlack_DeepForest_0001_singi_heavy_flannel_shirt_m_81373-550-662_a_main.jpg?v=1777568890</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSingiHeavyFlannelShirtBlack_DeepForest_0000_singi_heavy_flannel_shirt_m_81373-550-662_b_main.jpg?v=1777568890</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[L/S SHIRTS]]></g:product_type>
-      <g:gtin>7323451110511</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-singi-heavy-flannel-shirt-black-deep-forest?variant=55720472183170</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55724980240770]]></g:id>
       <g:title><![CDATA[Lacoste 3-Pack Stretch Cotton Trunks Black / White / Grey Chine]]></g:title>
       <g:price>39.00 GBP</g:price>
@@ -150208,32 +149768,6 @@
       <g:product_type><![CDATA[JACKETS]]></g:product_type>
       <g:gtin>7323451103698</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-bergtagen-gtx-pro-jacket-mountain-blue?variant=55740598223234</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[55740598256002]]></g:id>
-      <g:title><![CDATA[Fjallraven Bergtagen GTX Pro Jacket Mountain Blue]]></g:title>
-      <g:price>725.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-bergtagen-gtx-pro-jacket-mountain-blue?variant=55740598256002</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Built with Gore's ePE-based GORE-TEX® membrane, the Fjallraven Bergtagen GTX Pro Jacket in Mountain Blue is made for winter mountaineering, skiing and snowboarding and is one of the more capable waterproof shell jackets in the range. A precise cut, helmet-compatible hood and underarm vents handle long expeditions, with a PFAS-free DWR finish and a repairable build. Features Shell: GORE-TEX® PRO 3-layer laminate (67% recycled 70D polyamide, 21% ePE/polyurethane, 12% 15D polyamide) Waterproof, windproof and breathable Superior cut for fit and freedom of movement Adjustable helmet-compatible hood and two-way front zip with chin guard Zipped underarm ventilation openings]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue2.jpg?v=1777568787</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue1.jpg?v=1777568787</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue7.jpg?v=1777568787</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue5.jpg?v=1777568788</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue4.jpg?v=1777568787</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue6.jpg?v=1777568788</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue3.jpg?v=1777568788</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenBergtagenGTXProJacketMountainBlue8.jpg?v=1777568788</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <g:gtin>7323451103704</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-bergtagen-gtx-pro-jacket-mountain-blue?variant=55740598256002</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -151651,31 +151185,6 @@
       <g:product_type><![CDATA[JACKETS]]></g:product_type>
       <g:gtin>7323451108426</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-womens-hc-insulated-jacket-fossil?variant=55743353586050</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[55743353651586]]></g:id>
-      <g:title><![CDATA[Fjallraven Womens HC Insulated Jacket Fossil]]></g:title>
-      <g:price>99.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-womens-hc-insulated-jacket-fossil?variant=55743353651586</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Fjallraven Women's High Coast Insulated Jacket in Fossil features in our lightweight winter jackets, windproof and insulated with PrimaLoft® Silver with P.U.R.E. Technology for warmth, moisture resistance and breathability. A shorter, boxy cut and recycled, PFAS-free build make it easy to layer or wear on its own in milder cold. Features Outer: 30D ripstop recycled polyamide with a matt finish Padding: PrimaLoft® Silver Insulation with P.U.R.E. Technology (recycled polyester) Buttoned front opening with visible buttons for easy repair Windproof, water resistant and breathable Shorter, boxy fit]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensHCInsulatedJacketFossil7.jpg?v=1777568670</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensHCInsulatedJacketFossil6.jpg?v=1777568669</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensHCInsulatedJacketFossil5.jpg?v=1777568669</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensHCInsulatedJacketFossil4.jpg?v=1777568669</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensHCInsulatedJacketFossil3.jpg?v=1777568671</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensHCInsulatedJacketFossil2.jpg?v=1777568672</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensHCInsulatedJacketFossil1.jpg?v=1777568671</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <g:gtin>7323451108488</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-womens-hc-insulated-jacket-fossil?variant=55743353651586</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -159088,27 +158597,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55852804440450]]></g:id>
-      <g:title><![CDATA[Carhartt WIP Curtis Sweater Tangled Brass]]></g:title>
-      <g:price>85.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/carhartt-wip-curtis-sweater-tangled-brass?variant=55852804440450</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Carhartt WIP Curtis Sweater in Tangled Brass is a versatile knit made from a carefully balanced mix of acrylic, recycled polyester, nylon, wool and elastane. The blend offers both warmth and stretch, with a 5-gauge knit providing texture and shape. Finished with the brand’s embroidered ‘C’ Logo on the chest, it’s a simple, timeless staple. PRODUCT FEATURES 51% acrylic, 32% recycled polyester, 11% nylon, 4% wool, 2% elastane 5-gauge construction for warmth and structure Soft, slightly elastic knit fabric Embroidered ‘C’ Logo on the chest Model is 185 cm tall and wears medium]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/CarharttWIPCurtisSweaterTangledBrass3.jpg?v=1774976653</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/CarharttWIPCurtisSweaterTangledBrass2.jpg?v=1774976651</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/CarharttWIPCurtisSweaterTangledBrass1.jpg?v=1774976651</g:additional_image_link>
-      <g:brand><![CDATA[Carhartt WIP]]></g:brand>
-      <g:product_type><![CDATA[KNITWEAR]]></g:product_type>
-      <g:gtin>4068584308963</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/carhartt-wip-curtis-sweater-tangled-brass?variant=55852804440450</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55852804669826]]></g:id>
       <g:title><![CDATA[Carhartt WIP Anglistic Sweater Speckled Fleur de Sel]]></g:title>
       <g:price>85.00 GBP</g:price>
@@ -160873,28 +160361,6 @@
       <g:product_type><![CDATA[FLEECE JACKETS]]></g:product_type>
       <g:gtin>198077392194</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/patagonia-womens-r1-air-fleece-jacket-black?variant=55867488960898</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[55867489747330]]></g:id>
-      <g:title><![CDATA[Patagonia Womens Nano Puff Hoody Smolder Blue]]></g:title>
-      <g:price>150.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/patagonia-womens-nano-puff-hoody-black?variant=55867489747330</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Women's Nano Puff® Hoody in Smolder Blue is made for cold, active days, using 60g PrimaLoft® Gold Insulation Eco with brick quilting and horizontal quilted side panels. The under-the-helmet hood, self-stuffing chest pocket and refined fit make it a compact insulated layer from our women's insulated jackets collection. Features Shell: 100% recycled polyester with PFAS-free DWR finish Insulation: 60g PrimaLoft® Gold Insulation Eco (100% postconsumer recycled polyester) Brick quilting with horizontal quilted side panels Under-the-helmet hood; centre-front zip with storm flap and chin garage Two zipped handwarmer pockets; internal zip chest pocket doubles as a stuffsack Drawcord-adjustable drop-tail hem; weight 349g]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PatagoniaWomensNanoPuffHoodySmolderBlue4.jpg?v=1774976534</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PatagoniaWomensNanoPuffHoodySmolderBlue3.jpg?v=1774976534</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PatagoniaWomensNanoPuffHoodySmolderBlue1.jpg?v=1774976533</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PatagoniaWomensNanoPuffHoodySmolderBlue2.jpg?v=1774976534</g:additional_image_link>
-      <g:brand><![CDATA[Patagonia]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <g:gtin>198077403395</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/patagonia-womens-nano-puff-hoody-black?variant=55867489747330</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -166900,28 +166366,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55956317110658]]></g:id>
-      <g:title><![CDATA[Fjallraven Womens Snow Round Neck Sweater Deep Forest]]></g:title>
-      <g:price>99.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-womens-snow-round-neck-sweater-deep-forest?variant=55956317110658</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Fjällräven Women’s Snow Round Neck Sweater in Deep Forest is a warm and stylish jacquard-knit sweater inspired by Scandinavian folklore. Made from 100% traceable ZQ lambswool, it offers exceptional insulation, moisture-wicking properties, and comfort for everyday outdoor wear. PRODUCT FEATURES - Jacquard-knit pattern inspired by Scandinavian folklore - Flatlock seams for durability and comfort - Ribbed cuffs, round neckline, and hem - Leather Fjällräven fox logo on the sleeve - Made entirely from traceable wool for sustainability and easy recycling - Regular fit, long sleeves, back length 60 cm - Weight: 306 g (size S) - Environmentally conscious: produced without PFAS, certified animal fiber - Care instructions: hand wash, do not bleach, do not tumble dry, iron max 110°C (1 dot), dry flat and reshape, enzyme-free detergent, wash with similar colors]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensSnowRoundNeckSweaterDeepForest4.jpg?v=1774976112</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensSnowRoundNeckSweaterDeepForest3.jpg?v=1774976112</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensSnowRoundNeckSweaterDeepForest2.jpg?v=1774976111</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenWomensSnowRoundNeckSweaterDeepForest1.jpg?v=1774976112</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[KNITWEAR]]></g:product_type>
-      <g:gtin>7323451108730</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-womens-snow-round-neck-sweater-deep-forest?variant=55956317110658</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55956317340034]]></g:id>
       <g:title><![CDATA[Fjallraven Womens Expedition Fleece Hoodie Chalk Rose]]></g:title>
       <g:price>195.00 GBP</g:price>
@@ -170350,25 +169794,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[55960212898178]]></g:id>
-      <g:title><![CDATA[Polo Ralph Lauren Cable-Knit Cashmere Sweater Rustic Navy Heather]]></g:title>
-      <g:price>125.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-cable-knit-cashmere-sweater-rustic-navy-heather?variant=55960212898178</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Polo Ralph Lauren Cable-Knit Cashmere Sweater in Rustic Navy Heather is crafted from Italian wool spun with cashmere for exceptional softness and warmth. The yarn delivers a smooth, luxurious texture with natural resilience. Featuring the brand’s signature cable-knit pattern, this jumper combines classic Polo heritage with refined comfort, making it a versatile choice for layering or wearing on its own. PRODUCT FEATURES Crewneck. Long sleeves with rib-knit cuffs. Rib-knit hem Signature embroidered Pony on the left chest. 90% wool, 10% cashmere.]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenCable-KnitCashmereSweaterFawnGreyHeather2_cfaf3621-8b95-4ba9-a3b2-bfa90a17a060.jpg?v=1774975870</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenCable-KnitCashmereSweaterFawnGreyHeather1_2ec5628a-12cc-419a-81d4-dfa0c6923ed0.jpg?v=1774975870</g:additional_image_link>
-      <g:brand><![CDATA[Polo Ralph Lauren]]></g:brand>
-      <g:product_type><![CDATA[KNITWEAR]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-cable-knit-cashmere-sweater-rustic-navy-heather?variant=55960212898178</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[55961879478658]]></g:id>
       <g:title><![CDATA[Carhartt WIP Carhartt Socks White / Black]]></g:title>
       <g:price>15.00 GBP</g:price>
@@ -172449,26 +171874,6 @@
       <g:product_type><![CDATA[JACKETS]]></g:product_type>
       <g:gtin>7323451059308</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-womens-bergtagen-60-insulation-jacket-mountain-blue-mustard-yellow?variant=55979411079554</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[55979412029826]]></g:id>
-      <g:title><![CDATA[Fjallraven 1960 Lite Logo Hat Deep Forest]]></g:title>
-      <g:price>50.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-1960-lite-logo-hat-deep-forest?variant=55979412029826</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Fjallraven 1960 Lite Logo Hat in Deep Forest offers a warm yet lightweight feel that works well through changing seasons. Its ribbed knit sits softly against the head, giving a relaxed shape without feeling bulky. The shallow profile rests slightly higher, making it comfortable for everyday wear whether you are in the city or outdoors. PRODUCT FEATURES - Soft blend of traceable ZQ merino wool and organic cotton - Shallow fit that sits a little higher on the head - Wide folded edge - Embroidered Fjallraven emblem on the front - Moisture wicking, insulating and packable - Made without PFAS and uses certified, traceable wool]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Fjallraven1960LiteLogoHatDeepForest_1.jpg?v=1774975750</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/Fjallraven1960LiteLogoHatDeepForest_2.jpg?v=1774975750</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[BEANIE HATS]]></g:product_type>
-      <g:gtin>7323451106415</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-1960-lite-logo-hat-deep-forest?variant=55979412029826</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -177638,29 +177043,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[56070085312898]]></g:id>
-      <g:title><![CDATA[Barbour Womens Claydon Striped Crew Neck Jumper Burnt Orange Stripe]]></g:title>
-      <g:price>65.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/barbour-womens-claydon-striped-crew-neck-jumper-burnt-orange-stripe?variant=56070085312898</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Barbour Womens Claydon Striped Crew Neck Jumper in Burnt Orange Stripe offers a modern approach to a timeless striped knit. Its wool-rich blend provides gentle warmth, making it ideal for transitional weather and easy layering. The clean crew neckline and bold stripe make it versatile enough to style with both relaxed and more tailored pieces. PRODUCT FEATURES Crafted using a wool, polyamide and viscose blend Subtle metal ID bar positioned at the back neck Back length measuring 56 cm Hand wash Wash separately to protect colour]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensClaydonStripedCrewNeckJumperBurntOrangeStripe5.jpg?v=1774975331</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensClaydonStripedCrewNeckJumperBurntOrangeStripe4.jpg?v=1774975330</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensClaydonStripedCrewNeckJumperBurntOrangeStripe3.jpg?v=1774975331</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensClaydonStripedCrewNeckJumperBurntOrangeStripe2.jpg?v=1774975331</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensClaydonStripedCrewNeckJumperBurntOrangeStripe1.jpg?v=1774975332</g:additional_image_link>
-      <g:brand><![CDATA[Barbour]]></g:brand>
-      <g:product_type><![CDATA[KNITWEAR]]></g:product_type>
-      <g:gtin>5020985962686</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/barbour-womens-claydon-striped-crew-neck-jumper-burnt-orange-stripe?variant=56070085312898</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[56070085902722]]></g:id>
       <g:title><![CDATA[Barbour Womens Lavensdale Crew Knitted Jumper Pink Blush]]></g:title>
       <g:price>109.00 GBP</g:price>
@@ -181978,28 +181360,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[56117920891266]]></g:id>
-      <g:title><![CDATA[Snow Peak Everyday Down Jacket Black]]></g:title>
-      <g:price>225.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/snow-peak-everyday-down-jacket-black?variant=56117920891266</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Snow Peak Everyday Down Jacket in Black is designed as a dependable layer for daily wear, offering warmth without feeling heavy or restrictive. Its clean shape and matte finish make it easy to wear across settings, while practical materials help it perform in changeable conditions. Built for regular use, it balances comfort, durability, and ease of care. PRODUCT FEATURES Matte grosgrain nylon outer fabric Water repellent finish for added durability Filled with 700 fill power water repellent synthetic down Maintains warmth even in damp conditions Designed to be washable at home Outer made from nylon with synthetic down insulation]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/SnowPeakEverydayDownJacketBlack_1.jpg?v=1774975090</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/SnowPeakEverydayDownJacketBlack_3.jpg?v=1774975090</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/SnowPeakEverydayDownJacketBlack_4.jpg?v=1774975090</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/SnowPeakEverydayDownJacketBlack_2.jpg?v=1774975090</g:additional_image_link>
-      <g:brand><![CDATA[Snow Peak]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <g:gtin>4550648087346</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/snow-peak-everyday-down-jacket-black?variant=56117920891266</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[56117920924034]]></g:id>
       <g:title><![CDATA[Snow Peak Everyday Down Jacket Black]]></g:title>
       <g:price>225.00 GBP</g:price>
@@ -183837,27 +183197,6 @@
       <g:product_type><![CDATA[LOUNGEWEAR & SLEEPWEAR]]></g:product_type>
       <g:gtin>5059970648441</g:gtin>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/paul-smith-logo-organic-cotton-lounge-t-shirts-three-pack-black?variant=56117942518146</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[56117942550914]]></g:id>
-      <g:title><![CDATA[Paul Smith Logo Organic Cotton Lounge T-Shirts Three Pack Black]]></g:title>
-      <g:price>45.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/paul-smith-logo-organic-cotton-lounge-t-shirts-three-pack-black?variant=56117942550914</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Paul Smith Logo Organic Cotton Lounge T Shirts Three Pack in black offers a set of essential crew neck tees designed for everyday wear. Made from soft organic cotton, each T-shirt features subtle logo detailing for a minimal, refined look. PRODUCT FEATURES • Made from 100% organic cotton • Classic crew neck design • Small Paul Smith logo on the sleeve and inside the collar • Machine washable for easy care]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PaulSmithLogoOrganicCottonLoungeT-ShirtsThreePackBlack4_5f02605b-7fda-45a4-8e67-2648fe311555.jpg?v=1774974969</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PaulSmithLogoOrganicCottonLoungeT-ShirtsThreePackBlack2_0025d595-a775-4724-ae8d-52d011971f92.jpg?v=1774974969</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PaulSmithLogoOrganicCottonLoungeT-ShirtsThreePackBlack1_ba1b2c79-6190-4280-b1c3-96d564dc1843.jpg?v=1766569494</g:additional_image_link>
-      <g:brand><![CDATA[Paul Smith]]></g:brand>
-      <g:product_type><![CDATA[LOUNGEWEAR & SLEEPWEAR]]></g:product_type>
-      <g:gtin>5059970648458</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/paul-smith-logo-organic-cotton-lounge-t-shirts-three-pack-black?variant=56117942550914</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -192556,26 +191895,6 @@
       <g:brand><![CDATA[RRL by Ralph Lauren]]></g:brand>
       <g:product_type><![CDATA[S/S TEES]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/rrl-by-ralph-lauren-striped-jacquard-t-shirt-indigo-multi?variant=56361759670658</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[56361759703426]]></g:id>
-      <g:title><![CDATA[RRL By Ralph Lauren Striped Jacquard T-Shirt Indigo Multi]]></g:title>
-      <g:price>130.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/rrl-by-ralph-lauren-striped-jacquard-t-shirt-indigo-multi?variant=56361759703426</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Rendered in Indigo Multi, the RRL By Ralph Lauren Striped Jacquard T-Shirt showcases heritage craftsmanship through indigo-dyed, jacquard-knit cotton. The lightweight jersey construction is garment-washed for a soft, lived-in feel, delivering everyday comfort with authentic character. PRODUCT FEATURES • 100% cotton construction • Lightweight jersey fabric • Jacquard-knit stripe pattern • True indigo dye finish • Softened through washing • Crew neckline • Short sleeve design • Medium measurements: 30 cm body length, 46.5 cm shoulder, 104 cm chest • Machine washable • Colour may rub off due to indigo dye • Imported]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLByRalphLaurenStripedJacquardT-ShirtIndigoMulti3.jpg?v=1774974491</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLByRalphLaurenStripedJacquardT-ShirtIndigoMulti2.jpg?v=1774974491</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RRLByRalphLaurenStripedJacquardT-ShirtIndigoMulti1.jpg?v=1774974491</g:additional_image_link>
-      <g:brand><![CDATA[RRL by Ralph Lauren]]></g:brand>
-      <g:product_type><![CDATA[S/S TEES]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/rrl-by-ralph-lauren-striped-jacquard-t-shirt-indigo-multi?variant=56361759703426</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -206833,28 +206152,6 @@
       <g:brand><![CDATA[Fjallraven]]></g:brand>
       <g:product_type><![CDATA[TROUSERS]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-vardag-relaxed-trousers-reg-leg-classic-dark-navy?variant=56456908702082</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[56456908734850]]></g:id>
-      <g:title><![CDATA[Fjallraven Vardag Relaxed Trousers Reg Leg Classic Dark Navy]]></g:title>
-      <g:price>140.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-vardag-relaxed-trousers-reg-leg-classic-dark-navy?variant=56456908734850</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Fjällräven Vardag Relaxed Trousers offer a comfortable and practical option for casual outdoor life. Made from durable G-1000 fabric, they blend recycled polyester with organic cotton to deliver reliable durability and breathability. The relaxed silhouette promotes airflow and unrestricted movement, making them ideal for warmer days outdoors. An elasticated section at the back of the waistband enhances comfort, while patch back pockets, open hand pockets and adjustable leg endings add functional everyday detail. PRODUCT FEATURES Durable G-1000 construction Recycled polyester and organic cotton blend Relaxed fit for ease of movement Elasticated back waist for comfort Two open hand pockets Two patch back pockets Adjustable leg endings Can be treated with Greenland Wax Mid waist fit Weight: 395 g (size 50) MATERIAL G-1000®: 65% Recycled Polyester, 35% Organic Cotton CARE Machine wash at 40°C Do not bleach Do not dry clean Iron at low heat (110°C maximum) Tumble dry low temperature Wash with similar colours Do not use fabric softener]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenVardagRelaxedTrousersRegLegClassicDarkNavy5.jpg?v=1774973949</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenVardagRelaxedTrousersRegLegClassicDarkNavy4.jpg?v=1774973948</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenVardagRelaxedTrousersRegLegClassicDarkNavy3.jpg?v=1774973948</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenVardagRelaxedTrousersRegLegClassicDarkNavy2.jpg?v=1774973950</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenVardagRelaxedTrousersRegLegClassicDarkNavy1.jpg?v=1774973949</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven]]></g:brand>
-      <g:product_type><![CDATA[TROUSERS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-vardag-relaxed-trousers-reg-leg-classic-dark-navy?variant=56456908734850</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -252920,26 +252217,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[56594136793474]]></g:id>
-      <g:title><![CDATA[Paraboot Montana Shoe Noire Vel Cognac]]></g:title>
-      <g:price>270.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/paraboot-montana-shoe-noire-vel-cognac?variant=56594136793474</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Paraboot Montana Shoe Noire Vel Cognac takes inspiration from vintage climbing footwear, combining a robust feel with a shape suited to daily use. Built for comfort and longevity, it features a rounded toe and a supportive sole that adapts easily from city streets to more demanding terrain. PRODUCT FEATURES Leather upper construction Blake stitched build for flexibility Durable rubber sole]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/ParabootMontanaShoeNoireVelCognac_1_c77c0f51-c769-4d18-9253-e57f4e7b9c9a.jpg?v=1777566369</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/ParabootMontanaShoeNoireVelCognac_2_bfdf6fd7-259f-4375-8f13-f27819db48d8.jpg?v=1777566370</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/ParabootMontanaShoeNoireVelCognac_3_382e5455-2608-4ba0-ac55-698e6f184e47.jpg?v=1777464991</g:additional_image_link>
-      <g:brand><![CDATA[Paraboot]]></g:brand>
-      <g:product_type><![CDATA[OUTDOOR & WALKING BOOTS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/paraboot-montana-shoe-noire-vel-cognac?variant=56594136793474</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[56594136859010]]></g:id>
       <g:title><![CDATA[Paraboot Montana Shoe Noire Vel Cognac]]></g:title>
       <g:price>270.00 GBP</g:price>
@@ -265549,26 +264826,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[56683267293570]]></g:id>
-      <g:title><![CDATA[Frizmworks OG Double Rib L/S Tee Black]]></g:title>
-      <g:price>60.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/frizmworks-og-double-rib-l-s-tee-black?variant=56683267293570</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Frizmworks OG Double Rib L/S Tee in Black is a premium long-sleeve T-shirt designed with durability and everyday wear in mind. Made from a specially developed high-density heavyweight cotton fabric, it offers a substantial feel while maintaining comfort throughout the day. The relaxed oversized fit creates an easy silhouette, making it a versatile piece that works effortlessly across the seasons. PRODUCT FEATURES Part of the Original Garments® collection High-density heavyweight cotton construction Double ribbed neckline for durability Neckline designed to resist stretching Softens naturally with continued wear Side vents for improved movement Shortened sleeve cuffs for comfort Oversized fit Suitable for year-round wear]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksOGDoubleRibL_STeeBlack3.jpg?v=1783119196</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksOGDoubleRibL_STeeBlack2.jpg?v=1783119196</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FrizmworksOGDoubleRibL_STeeBlack1.jpg?v=1783119196</g:additional_image_link>
-      <g:brand><![CDATA[Frizmworks]]></g:brand>
-      <g:product_type><![CDATA[L/S TEES]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/frizmworks-og-double-rib-l-s-tee-black?variant=56683267293570</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[56683267326338]]></g:id>
       <g:title><![CDATA[Frizmworks OG Double Rib L/S Tee Black]]></g:title>
       <g:price>60.00 GBP</g:price>
@@ -268311,27 +267568,6 @@
       <g:brand><![CDATA[Barbour]]></g:brand>
       <g:product_type><![CDATA[SWIMWEAR]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/barbour-staple-tartan-swim-short-ancient-tartan?variant=56685433815426</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[56685433848194]]></g:id>
-      <g:title><![CDATA[Barbour Staple Tartan Swim Short Ancient Tartan]]></g:title>
-      <g:price>49.95 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/barbour-staple-tartan-swim-short-ancient-tartan?variant=56685433848194</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[The Barbour Staple Tartan Swim Short in Ancient Tartan brings a classic pattern to warm-weather essentials. Designed with an all-over checked finish, it offers a timeless look for beach and pool days. A drawstring waistband provides an adjustable fit, while a rear patch pocket adds practical storage. Subtle Barbour embroidery on the leg completes the design. PRODUCT FEATURES All-over Ancient Tartan check design Adjustable drawstring waistband Rear patch pocket Embroidered Barbour branding to leg Comfortable swim short fit]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourStapleTartanSwimShortAncientTartan1.jpg?v=1783119142</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourStapleTartanSwimShortAncientTartan2.jpg?v=1783119142</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourStapleTartanSwimShortAncientTartan3.jpg?v=1783119142</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourStapleTartanSwimShortAncientTartan4.jpg?v=1783119143</g:additional_image_link>
-      <g:brand><![CDATA[Barbour]]></g:brand>
-      <g:product_type><![CDATA[SWIMWEAR]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/barbour-staple-tartan-swim-short-ancient-tartan?variant=56685433848194</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -294360,26 +293596,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[56868728340866]]></g:id>
-      <g:title><![CDATA[Polo Ralph Lauren Shawl-Collar Terry Robe Cruise Olive]]></g:title>
-      <g:price>160.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-shawl-collar-terry-robe-cruise-olive?variant=56868728340866</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Polo Ralph Lauren Shawl-Collar Terry Robe in Cruise Olive is made from super soft cotton terry for a comfortable feel. The shawl-collar design is finished with Ralph Lauren’s signature embroidered Pony. PRODUCT FEATURES Cruise Olive Shawl collar Super soft cotton terry 100% cotton Signature embroidered Pony Two front waist patch pockets Model is 1.85m and wears a size S/M]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenShawl-CollarTerryRobeCruiseOlive_2.jpg?v=1788354251</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenShawl-CollarTerryRobeCruiseOlive_1.jpg?v=1788337048</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/PoloRalphLaurenShawl-CollarTerryRobeCruiseOlive_3.jpg?v=1788337049</g:additional_image_link>
-      <g:brand><![CDATA[Polo Ralph Lauren]]></g:brand>
-      <g:product_type><![CDATA[LOUNGEWEAR & SLEEPWEAR]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/polo-ralph-lauren-shawl-collar-terry-robe-cruise-olive?variant=56868728340866</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[56868728406402]]></g:id>
       <g:title><![CDATA[Polo Ralph Lauren Polo Bear / Plaid Cotton Sleep Set White / Brown]]></g:title>
       <g:price>140.00 GBP</g:price>
@@ -302797,26 +302013,6 @@
       <g:brand><![CDATA[Jackman]]></g:brand>
       <g:product_type><![CDATA[L/S TEES]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/jackman-dotsume-rib-l-s-t-shirt-uni-cream?variant=56882803868034</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[56882803900802]]></g:id>
-      <g:title><![CDATA[Jackman Dotsume Rib L/S T-Shirt Uni Cream]]></g:title>
-      <g:price>150.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/jackman-dotsume-rib-l-s-t-shirt-uni-cream?variant=56882803900802</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Jackman Dotsume Rib L/S T-Shirt Uni Cream is made in Japan from 100% American cotton, knitted on an analogue, non-automatic loopwheel knitting machine to create a tightly woven jersey weighing approximately 11.5 ounces. The evenly tightened stitches help the fabric resist distortion and deformation after repeated wear and washing, while its firm, crisp feel remains comfortable against the skin. Tight ribbing gives this long-sleeved T-shirt a voluminous, sweatshirt-like shape, creating space between the fabric and skin for comfortable wear from early spring. PRODUCT FEATURES Made in Japan 100% Cotton American cotton Knitted on an analogue, non-automatic loopwheel knitting machine Tightly woven jersey fabric Approximately 11.5 ounces Evenly tightened stitches to help resist distortion and deformation after repeated wear and washing Firm, crisp feel Long-sleeved T-rib design Tight ribbing creates a voluminous, sweatshirt-like shape]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/JackmanDotsumeRibLST-ShirtUniCream_1.jpg?v=1788354072</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/JackmanDotsumeRibLST-ShirtUniCream_2.jpg?v=1788354072</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/JackmanDotsumeRibLST-ShirtUniCream_3.jpg?v=1788354072</g:additional_image_link>
-      <g:brand><![CDATA[Jackman]]></g:brand>
-      <g:product_type><![CDATA[L/S TEES]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/jackman-dotsume-rib-l-s-t-shirt-uni-cream?variant=56882803900802</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -329421,37 +328617,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[56925295739266]]></g:id>
-      <g:title><![CDATA[Fjallraven Sormland Padded Jacket Deep Forest]]></g:title>
-      <g:price>380.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/fjallraven-sormland-padded-jacket-deep-forest-1?variant=56925295739266</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Fjallraven Sormland Padded Jacket Deep Forest is a windproof and waterproof hunting jacket made from hardwearing, rustle-free G-1000® Silent with a Hydratic liner. Lightly padded with PrimaLoft® Black Insulation RISE with P.U.R.E. Technology, it provides extra warmth for colder days while retaining a simple, classic style suited to the forest, work and urban settings. G-1000® HeavyDuty reinforcements at the shoulders and elbows add durability, while a two-way front zipper with protective flap helps keep cold winds out. Practical storage includes a Napoleon pocket, bellows pockets, internal pockets and easily accessible hand pockets. PRODUCT FEATURES Windproof, waterproof, breathable and insulating Adaptable with Greenland Wax G-1000® Silent with Hydratic liner G-1000® Silent: 65% recycled polyester, 35% organic cotton G-1000® HeavyDuty: 65% recycled polyester, 35% organic cotton Lightly padded with PrimaLoft® Black Insulation RISE with P.U.R.E. Technology 40 g/sqm insulation Filling: 100% recycled polyester Reinforcements at shoulders and elbows Two-way front zipper with protective flap and press buttons One Napoleon pocket Large lower bellows pockets with flaps Two inside storage pockets Accessible hand pockets Button-adjustable waist Leather-edged, button-adjustable sleeve cuffs Liner: 100% recycled polyamide Lining: 100% polyester]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_1.jpg?v=1790169823</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_12.jpg?v=1790169823</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_13.jpg?v=1790169824</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_14.jpg?v=1790169823</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_3.jpg?v=1790169823</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_10.jpg?v=1790169825</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_9.jpg?v=1790169823</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_4.jpg?v=1790169825</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_5.jpg?v=1790169823</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_6.jpg?v=1790169823</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_7.jpg?v=1790169825</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_8.jpg?v=1790169826</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_11.jpg?v=1790169823</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/FjallravenSormlandPaddedJacketDeepForest_2.jpg?v=1790169823</g:additional_image_link>
-      <g:brand><![CDATA[Fjallraven Hunting]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/fjallraven-sormland-padded-jacket-deep-forest-1?variant=56925295739266</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[56925295804802]]></g:id>
       <g:title><![CDATA[Fjallraven Sormland Padded Jacket Deep Forest]]></g:title>
       <g:price>380.00 GBP</g:price>
@@ -339189,30 +338354,6 @@
       <g:brand><![CDATA[Barbour]]></g:brand>
       <g:product_type><![CDATA[JACKETS]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/barbour-womens-icons-tartan-collar-modern-beadnell-wax-jacket-olive-classic?variant=56950699983234</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[56950700179842]]></g:id>
-      <g:title><![CDATA[Barbour Womens Icons Tartan Collar Spey Wax Jacket Olive / Classic]]></g:title>
-      <g:price>279.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/barbour-womens-icons-tartan-collar-spey-wax-jacket-olive-classic?variant=56950700179842</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Barbour Womens Icons Tartan Collar Spey Wax Jacket Olive / Classic is crafted from durable 6oz waxed cotton with tartan cord detailing to the collar and cuff facings. Front patch pockets offer practical storage, while a signature D-ring brings a subtle utility-inspired detail. Bright brass studs and a concealed two-way metal zip sit behind the front placket, giving the jacket versatile fastening and a distinctive heritage finish. PRODUCT FEATURES Outer: 100% Cotton (Waxed) Inner: 65% Polyester, 35% Cotton Sleeve lining: 100% Polyester Dripstrip: 100% Polyester Collar: 100% Polyester 6oz Sylkoil wax Tartan cord collar and cuff facings Functional front patch pockets Signature D-ring detail Bright brass studs Concealed two-way metal zip behind front placket Branding on pocket flap left hand sode as worn Back Length: 61cm]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensIconsTartanCollarSpeyWaxJacketOliveClassic_1.jpg?v=1790762818</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensIconsTartanCollarSpeyWaxJacketOliveClassic_2.jpg?v=1790762817</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensIconsTartanCollarSpeyWaxJacketOliveClassic_4.jpg?v=1790762818</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensIconsTartanCollarSpeyWaxJacketOliveClassic_3.jpg?v=1790762818</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensIconsTartanCollarSpeyWaxJacketOliveClassic_5.jpg?v=1790762818</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensIconsTartanCollarSpeyWaxJacketOliveClassic_6.jpg?v=1790762818</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/BarbourWomensIconsTartanCollarSpeyWaxJacketOliveClassic_7.jpg?v=1790762818</g:additional_image_link>
-      <g:brand><![CDATA[Barbour]]></g:brand>
-      <g:product_type><![CDATA[JACKETS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/barbour-womens-icons-tartan-collar-spey-wax-jacket-olive-classic?variant=56950700179842</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
@@ -349037,29 +348178,6 @@
       </g:shipping>
     </item>
     <item>
-      <g:id><![CDATA[56967976223106]]></g:id>
-      <g:title><![CDATA[YETI Rambler 10oz Tumbler MS Navy]]></g:title>
-      <g:price>20.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/yeti-rambler-10oz-tumbler-ms-navy?variant=56967976223106</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[YETI Rambler 10oz Tumbler MS is made from kitchen-grade 18/8 stainless steel with double-wall vacuum insulation to keep hot drinks hot and cold drinks cold. Cupholder compatible and fitted with a MagSlider™ Lid, it helps protect against splashes while magnets make the lid easy to open and close. Dishwasher safe for straightforward cleaning, the tumbler is also puncture and rust-resistant. PRODUCT FEATURES 18/8 kitchen-grade stainless steel Double-wall vacuum insulated Cupholder compatible Splash resistant MagSlider™ Lid with magnetic slider Magnets for easy opening and closing Dishwasher safe Puncture and rust-resistant 7.2W x 14.4H cm Please note: the magnetic slider is not leakproof and will not prevent spills]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/YETIRambler10ozTumblerMSNavy_3.jpg?v=1791383041</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/YETIRambler10ozTumblerMSNavy_4.jpg?v=1791383041</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/YETIRambler10ozTumblerMSNavy_2.jpg?v=1791383041</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/YETIRambler10ozTumblerMSNavy_1.jpg?v=1791383041</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/YETIRambler10ozTumblerMSNavy_5.jpg?v=1791383041</g:additional_image_link>
-      <g:brand><![CDATA[YETI]]></g:brand>
-      <g:product_type><![CDATA[DRINKWARE]]></g:product_type>
-      <g:gtin>888830373996</g:gtin>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/yeti-rambler-10oz-tumbler-ms-navy?variant=56967976223106</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
       <g:id><![CDATA[56967976354178]]></g:id>
       <g:title><![CDATA[YETI Rambler 7.6L Beverage Bucket Stainless Steel]]></g:title>
       <g:price>150.00 GBP</g:price>
@@ -349674,32 +348792,6 @@
       <g:brand><![CDATA[Red Wing]]></g:brand>
       <g:product_type><![CDATA[CASUAL BOOTS]]></g:product_type>
       <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/red-wing-norway-moc-copper-rough-tough?variant=56969561538946</pj:affiliate_link>
-      <g:shipping>
-        <g:country>GB</g:country>
-        <g:service>Standard</g:service>
-        <g:price>3.95 GBP</g:price>
-      </g:shipping>
-    </item>
-    <item>
-      <g:id><![CDATA[56969561571714]]></g:id>
-      <g:title><![CDATA[Red Wing Norway Moc Copper Rough & Tough]]></g:title>
-      <g:price>399.00 GBP</g:price>
-      <g:link>https://thesportinglodge.myshopify.com/products/red-wing-norway-moc-copper-rough-tough?variant=56969561571714</g:link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:description><![CDATA[Red Wing Norway Moc Copper Rough & Tough was developed for the cold climates of Scandinavia and is made in the USA as a Minnesotan boot built for Norwegian winters. Scotch-grain embossed Copper Rough & Tough leather provides four times more water resistance, while the Vibram® Fire & Ice Lug outsole delivers traction in tough, cold conditions. A padded collar, moisture-wicking canvas lining and removable felt-covered footbed help regulate warmth and moisture while adding comfort underfoot. PRODUCT FEATURES Scotch-grain Copper Rough & Tough leather Embossed leather provides exceptional water resistance Four times more water resistance Vibram® Fire & Ice Lug outsole Superior traction in tough winter conditions Moisture-wicking canvas lining Padded collar helps regulate warmth and moisture Removable foam footbed with felted wool cover Leather crafted by S.B. Foot Tanning Company Made in the USA]]></g:description>
-      <g:image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_9.jpg?v=1791471042</g:image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_7.jpg?v=1791471042</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_6.jpg?v=1791471042</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_5.jpg?v=1791471042</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_8.jpg?v=1791471042</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_3.jpg?v=1791471042</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_1.jpg?v=1791471042</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_2.jpg?v=1791471042</g:additional_image_link>
-      <g:additional_image_link>https://cdn.shopify.com/s/files/1/0600/7789/9946/files/RedWingNorwayMocCopperRough_Tough_4.jpg?v=1791471043</g:additional_image_link>
-      <g:brand><![CDATA[Red Wing]]></g:brand>
-      <g:product_type><![CDATA[CASUAL BOOTS]]></g:product_type>
-      <pj:affiliate_link>https://thesportinglodge.myshopify.com/products/red-wing-norway-moc-copper-rough-tough?variant=56969561571714</pj:affiliate_link>
       <g:shipping>
         <g:country>GB</g:country>
         <g:service>Standard</g:service>
